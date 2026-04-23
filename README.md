@@ -5,7 +5,7 @@ An interactive analytics platform built using real Formula 1 telemetry data to a
 ---
 
 ## 🚀 Live Demo
-👉 (Add your deployed link here once done)
+👉 https://f1-race-intelligence-dashboard-w6oh6sht6zgjoavvmrcmkz.streamlit.app/
 
 ---
 
